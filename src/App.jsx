@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css"; // <-- import the CSS file
 
 const App = () => {
-  return <div className="hello">hello world</div>;
+  return <div className="hello">hello saliha</div>;
 };
 
 export default App;
