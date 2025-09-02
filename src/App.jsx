@@ -6,6 +6,7 @@ const App = () => {
     <div className="hello">
       hello murtaza
       <div>new div</div>
+      <div>new feature add</div>
     </div>
   );
 };
